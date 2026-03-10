@@ -1,0 +1,9 @@
+# Core dependency — Anthropic Python SDK
+anthropic>=0.40.0
+
+# Optional: MCP protocol client (enables native MCP server integration)
+# If not installed the agent falls back to raw JSON-RPC over stdio
+# mcp>=1.0.0
+
+# Optional: browser automation skill
+# playwright>=1.40.0
